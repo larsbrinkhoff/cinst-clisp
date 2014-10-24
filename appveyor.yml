@@ -1,0 +1,4 @@
+install:
+  - choco install clisp
+build_script: echo yes
+test_script: echo ok
